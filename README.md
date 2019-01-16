@@ -1,4 +1,4 @@
-## ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) A sentiment analysis tool using Natural Language Processing on selected Reddit data
+### ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) A sentiment analysis tool using Natural Language Processing on selected Reddit data
 
 ### Overview
 
