@@ -1,5 +1,5 @@
-### ![](./data/happy.jpeg) 
-A sentiment analysis tool using Natural Language Processing on selected Reddit data
+![](./data/happy.jpeg) 
+### A sentiment analysis tool using Natural Language Processing on selected Reddit data
 
 ### Overview
 
