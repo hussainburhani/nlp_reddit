@@ -7,7 +7,7 @@ The other day Sandy from class complemented me on handling DSI with calm and com
 
 In reality my week is a roller-coaster ride which starts off on a high note when I see all the lovely faces in class, a mid-week panic-attack which slings me into a trough, an early morning swim which kicks in a healthy dose of endorphins, before slumping off at the end of the week as I am wrangled away from my happy place.
 
-I would much rather modulate my week so the troughs aren’t so low and the perhaps the peaks not so high. Serendipitously, last week I discovered the happy and sad subreddits — appropriate to temper my mood along the week. It had been working well, but it did get me thinking of how I could extend this modulation to other aspects of my life.
+I would much rather modulate my week so the troughs aren’t so low and the perhaps the peaks not so high. Serendipitously, last week I discovered the happy and sad subreddits — appropriate to temper my mood along the week as I peruse the content. It had been working well, but it did get me thinking of how I could extend this modulation to other aspects of my life.
 
 If I am sending off a text, writing a note to my long lost love, or an important email at the end of a tiring day, it would be healthy to have what I have written cross-checked through some sentiment analysis. So, with that in mind, I went about building a natural language processing-based classifier based on the rather rich corpus of verbiage from each of the happy and sad subreddits.
 
