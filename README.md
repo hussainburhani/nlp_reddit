@@ -3,7 +3,7 @@
 
 ### Overview
 
-The other day a friend from class complemented me on handling DSI with calm and composure, and though I took a moment to pause before thanking him, it did make me wonder if I have just been good at feigning it.
+The other day Sandy from class complemented me on handling DSI with calm and composure, and though I took a moment to pause before thanking her, it did make me wonder if I have just been good at feigning it.
 
 In reality my week is a roller-coaster ride which starts off on a high note when I see all the lovely faces in class, a mid-week panic-attack which slings me into a trough, an early morning swim which kicks in a healthy dose of endorphins, before slumping off at the end of the week as I am wrangled away from my happy place.
 
